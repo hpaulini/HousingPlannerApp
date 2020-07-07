@@ -86,8 +86,8 @@ This app is for college students looking for housing, whether it be off campus, 
 * Upload Houses -> page to insert images/make house profile -> Updated 'Find Houses' feed
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="IMG_0542.JPG" width=600>
+<img src="IMG_9738.JPG" width=600>
 
 ### Digital Wireframes & Mockups
 
